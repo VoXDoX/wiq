@@ -1,0 +1,3 @@
+
+class WiqAPIError(Exception):
+	pass
